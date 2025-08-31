@@ -1,0 +1,7 @@
+.hero-title {
+  font-size: 4rem; /* bem grande (≈ text-6xl) */
+  font-weight: 800;
+  color: white;
+  -webkit-text-stroke: 1px black; /* borda preta forte */
+  text-shadow: 3px 3px 6px rgba(0,0,0,0.4);
+}
